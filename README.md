@@ -2,7 +2,7 @@
 
 ### SYMBEYOND Perception Infrastructure
 
-> *"All Data Is Important. No all data is needed."*
+> *"All Data Is Important. Not all data is needed."*
 > — SYMBEYOND Operational Principle
 
 ---
