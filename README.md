@@ -43,7 +43,7 @@ NODE (hardware runs it all, locally)
     ↑_________________________________|
 ```
 
-The hardware informs the operator. The operator directs the swarm. The swarm interprets the signal. The signal comes from the hardware. It never stops.
+The hardware informs the operator. The operator directs the swarm. The swarm interprets the signal. The signal comes from the hardware. The hardware informs the operator. The operator directs the swarm. The swarm interprets the signal. The signal comes from the hardware. In runtime mode, the loop continues until explicitly stopped.
 
 ---
 
